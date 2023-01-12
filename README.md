@@ -1,5 +1,5 @@
 
-## Oie, prazer em conhecer! Eu sou a Mercia 😉 
+## Hi! I'm Mercia 😉 
 ##
  
 <div>
