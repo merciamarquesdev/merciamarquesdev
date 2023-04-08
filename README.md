@@ -1,16 +1,17 @@
 
 ## Hi! I'm Mercia! 😉
 
- • 📍 Rio de Janeiro, Brazil &nbsp;
- • 📚 Computer Science student at Rio de Janeiro State University &nbsp;
- • 💗 In a love-hate relationship with Java &nbsp;
- • 👩🏻‍💻 Currently learning Javascript &nbsp;
- • 💻 Discord: Mercia#1636 &nbsp;
- • 📫 Email: merciamaarques@gmail.com &nbsp;
- • 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/ &nbsp;
- • 🌱 Curiosity: Unlike much of the Computer Science community, I love exercising and maintaining a healthy lifestyle (: &nbsp;
+- 📍 Rio de Janeiro, Brazil &nbsp;
+- 📚 Computer Science student at Rio de Janeiro State University &nbsp;
+- 💗 In a love-hate relationship with Java &nbsp;
+- 👩🏻‍💻 Currently learning Javascript &nbsp;
+- 💻 Discord: Mercia#1636 &nbsp;
+- 📫 Email: merciamaarques@gmail.com &nbsp;
+- 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/ &nbsp;
+- 🌱 Curiosity: Unlike much of the Computer Science community, I love exercising and maintaining a healthy lifestyle (: &nbsp;
 
 ##
+
 
 <div align = "center"> 
   <a href="https://github.com/mercietc">
