@@ -11,8 +11,6 @@
 - 🌱 Curiosity: Unlike much of the Computer Science community, I love exercising and maintaining a healthy lifestyle (: &nbsp;
 
 ##
-
-
 <div align = "center"> 
   <a href="https://github.com/mercietc">
     <img height=150px src="https://github-readme-stats.vercel.app/api?username=mercietc&show_icons=true&theme=outrun&count_private=true&includes_all_commits=true" />
@@ -31,7 +29,6 @@
 <img height="50px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
 <img height="50px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
 </div>
-  
  ##
  ![Snake animation](https://github.com/mercietc/mercietc/blob/output/github-contribution-grid-snake.svg)
 
