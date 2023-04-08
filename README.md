@@ -30,6 +30,7 @@
 <img height="50px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
 <img height="50px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
 </div>
+
  ##
 
  ![Snake animation](https://github.com/mercietc/mercietc/blob/output/github-contribution-grid-snake.svg)
