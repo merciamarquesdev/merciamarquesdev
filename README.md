@@ -1,14 +1,14 @@
 
-## Hi! I'm Mercia 😉 
+## Hi! I'm Mercia! 😉
 
-- 📍 Rio de Janeiro, Brazil
-- 📚 Computer Science student at Rio de Janeiro State University
-- 💗 In a love-hate relationship with Java
-- 👩🏻‍💻 I’m currently learning Javascript
-- 💻 Discord: Mercia#1636
-- 📫 E-mail: flaviaadiniz@gmail.com
-- 🔍 LinkedIn: https://www.linkedin.com/in/flaviaadiniz/
-- 🌱 Curiosity: Unlike much of the Computer Science community, I love exercising and having a healthy lifestyle (:
+• 📍 Rio de Janeiro, Brazil
+• 📚 Computer Science student at Rio de Janeiro State University
+• 💗 In a love-hate relationship with Java
+• 👩🏻‍💻 Currently learning Javascript
+• 💻 Discord: Mercia#1636
+• 📫 Email: merciamaarques@gmail.com
+• 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/
+• 🌱 Curiosity: Unlike much of the Computer Science community, I love exercising and maintaining a healthy lifestyle (:
 
 <div>
 <img height="55px" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
