@@ -1,16 +1,16 @@
 
 ## Hi! I'm Mercia! 😉
 
- • 📍 Rio de Janeiro, Brazil
- • 📚 Computer Science student at Rio de Janeiro State University
- • 💗 In a love-hate relationship with Java
- • 👩🏻‍💻 Currently learning Javascript
- • 💻 Discord: Mercia#1636
- • 📫 Email: merciamaarques@gmail.com
- • 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/
- • 🌱 Curiosity: Unlike much of the Computer Science community, I love exercising and maintaining a healthy lifestyle (:
+ • 📍 Rio de Janeiro, Brazil &nbsp;
+ • 📚 Computer Science student at Rio de Janeiro State University &nbsp;
+ • 💗 In a love-hate relationship with Java &nbsp;
+ • 👩🏻‍💻 Currently learning Javascript &nbsp;
+ • 💻 Discord: Mercia#1636 &nbsp;
+ • 📫 Email: merciamaarques@gmail.com &nbsp;
+ • 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/ &nbsp;
+ • 🌱 Curiosity: Unlike much of the Computer Science community, I love exercising and maintaining a healthy lifestyle (: &nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
+##
 
 <div align = "center"> 
   <a href="https://github.com/mercietc">
@@ -29,12 +29,6 @@
 <img height="50px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="50px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
 <img height="50px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
-</div>
-
-<div align = "center">  
-  <a href="https://github.com/mercietc"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/merciamarques/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:merciamaarques@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <div align ="center">
