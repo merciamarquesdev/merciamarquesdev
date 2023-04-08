@@ -8,8 +8,8 @@
 - 💻 Discord: Mercia#1636 &nbsp;
 - 📫 Email: merciamaarques@gmail.com &nbsp;
 - 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/ &nbsp;
-- 🌱 Curiosity 1: Unlike much of the Computer Science community, I love exercising and maintaining a healthy lifestyle (: &nbsp;
-- 👑 Curiosity 2: The name "Mercia" refers to a kingdom in England that existed between the 5th and 11th centuries 
+- 👑 Curiosity: The name "Mercia" refers to a kingdom in England that existed between the 5th and 11th centuries 
+
 
 ##
 
