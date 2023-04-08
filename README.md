@@ -2,24 +2,17 @@
 ## Hi! I'm Mercia! 😉
 
  • 📍 Rio de Janeiro, Brazil
-
  • 📚 Computer Science student at Rio de Janeiro State University
-
  • 💗 In a love-hate relationship with Java
-
  • 👩🏻‍💻 Currently learning Javascript
-
  • 💻 Discord: Mercia#1636
- 
  • 📫 Email: merciamaarques@gmail.com
- 
  • 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/
- 
  • 🌱 Curiosity: Unlike much of the Computer Science community, I love exercising and maintaining a healthy lifestyle (:
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align = "center"> 
   <a href="https://github.com/mercietc">
     <img height=150px src="https://github-readme-stats.vercel.app/api?username=mercietc&show_icons=true&theme=outrun&count_private=true&includes_all_commits=true" />
     <img height = 150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercietc&show_icons=true&hide=html&layout=compact&theme=outrun" />
@@ -49,6 +42,5 @@
 </div>
   
  ##
- <div align ="center">
  ![Snake animation](https://github.com/mercietc/mercietc/blob/output/github-contribution-grid-snake.svg)
-</div>
+
