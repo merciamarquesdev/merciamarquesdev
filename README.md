@@ -7,6 +7,7 @@
 - 👩🏻‍💻 Currently diving deeper into Java and learning Javascript &nbsp;
 - 💻 Discord: Mercia#1636 &nbsp;
 - 📫 Email: merciamaarques@gmail.com &nbsp;
+- ⭐ Portfólio: https://merciamaarques.wixsite.com/mercia &nbsp;
 - 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/ &nbsp;
 - 👑 Curiosity: The name "Mercia" refers to a kingdom in England that existed between the 5th and 11th centuries 
 
