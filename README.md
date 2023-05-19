@@ -1,5 +1,5 @@
 
-## Hi! I'm Mercia! 😉
+## Hi! I'm Mercia! 😉   
 
 - 📍 Rio de Janeiro, Brazil &nbsp;
 - 📚 Computer Science student at Rio de Janeiro State University &nbsp;
