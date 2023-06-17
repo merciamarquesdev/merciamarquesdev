@@ -5,7 +5,7 @@
 - 📚 Computer Science student at Rio de Janeiro State University &nbsp;
 - 💗 In a love-hate relationship with Java &nbsp;
 - 👩🏻‍💻 Currently diving deeper into Java and learning Javascript &nbsp;
-- 💻 Discord: Mercia#1636 &nbsp;
+- 💻 Discord: merciamarques &nbsp;
 - 📫 Email: merciamaarques@gmail.com &nbsp;
 - ⭐ Portfólio: https://merciamaarques.wixsite.com/mercia &nbsp;
 - 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/ &nbsp;
