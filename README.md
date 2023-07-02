@@ -2,13 +2,14 @@
 ## Hi! I'm Mercia! 😉   
 
 - 📍 Rio de Janeiro, Brazil &nbsp;
+- 💻 I have experience with back-end development in Java 8 and 11 using the Spring framework, mainly Spring Web, Spring Data, Lombok, JPA, H2 database, JUnit 4 and 5, Mockito and JaCoCo dependencies in Maven projects.
 - 📚 Computer Science student at Rio de Janeiro State University &nbsp;
 - 💗 In a love-hate relationship with Java &nbsp;
 - 👩🏻‍💻 Currently diving deeper into Java and learning Javascript &nbsp;
-- 💻 Discord: merciamarques &nbsp;
+- 🔉 Discord: merciamarques &nbsp;
 - 📫 Email: merciamaarques@gmail.com &nbsp;
-- ⭐ Portfólio: https://merciamaarques.wixsite.com/mercia &nbsp;
 - 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/ &nbsp;
+- ⭐ Portfólio: https://merciamaarques.wixsite.com/mercia &nbsp;
 - 👑 Curiosity: The name "Mercia" refers to a kingdom in England that existed between the 5th and 11th centuries 
 
 
