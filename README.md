@@ -37,6 +37,3 @@
 
  ![Snake animation](https://github.com/mercietc/mercietc/blob/output/github-contribution-grid-snake.svg)
 
-<div align ="center">
-  <img src="https://gpvc.arturio.dev/mercietc" alt="visitors">
-</div>
