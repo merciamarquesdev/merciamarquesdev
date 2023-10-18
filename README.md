@@ -15,7 +15,7 @@
 ##
 
 <div align = "center"> 
-  <a href="https://github.com/mercietc">
+  <a href="https://github.com/merciamarquesdev">
     <img height=150px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mercietc&show_icons=true&theme=outrun&count_private=true&includes_all_commits=true" />
     <img height = 150px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mercietc&show_icons=true&hide=html&layout=compact&theme=outrun" />
   </a>
@@ -35,5 +35,5 @@
 
  ##
 
- ![Snake animation](https://github.com/mercietc/mercietc/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/merciamarquesdev/merciamarquesdev/blob/output/github-contribution-grid-snake.svg)
 
