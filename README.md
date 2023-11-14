@@ -16,8 +16,8 @@
 
 <div align = "center"> 
   <a href="https://github.com/merciamarquesdev">
-    <img height=150px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mercietc&show_icons=true&theme=outrun&count_private=true&includes_all_commits=true" />
-    <img height = 150px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mercietc&show_icons=true&hide=html&layout=compact&theme=outrun" />
+    <img height=150px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=merciamarquesdev&show_icons=true&theme=outrun&count_private=true&includes_all_commits=true" />
+    <img height = 150px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=merciamarquesdev&show_icons=true&hide=html&layout=compact&theme=outrun" />
   </a>
  </div>
  
