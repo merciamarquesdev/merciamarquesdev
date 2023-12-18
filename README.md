@@ -2,9 +2,9 @@
 ## Hi! I'm Mercia! 😉   
 
 - 📍 Rio de Janeiro, Brazil &nbsp;
-- 💻 I have experience with back-end development in Java 8 and 11 using the Spring framework, mainly Spring Web, Spring Data, Lombok, JPA, H2 database, JUnit 4 and 5, Mockito and JaCoCo dependencies in Maven projects.
+- 💻 I have experience with back-end development in C# .NET using Clean Architecture and Java using the Spring framework.
 - 📚 Computer Science student at Rio de Janeiro State University &nbsp;
-- 👩🏻‍💻 Currently diving deeper into Java and learning Javascript and Angular &nbsp;
+- 👩🏻‍💻 Currently diving deeper into C# and learning Angular &nbsp;
 - 🔉 Discord: merciamarques &nbsp;
 - 📫 Email: merciamaarques@gmail.com &nbsp;
 - 🔍 LinkedIn: https://www.linkedin.com/in/merciamarques/ &nbsp;
